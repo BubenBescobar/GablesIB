@@ -1,18 +1,22 @@
 body {
-  background-color: #05204d;
+  background-color: #AAD7EF;
   font-family: "Myriad Pro", Myriad, "Liberation Sans", "Nimbus Sans L", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin: 0;
 }
-div.hero {
+span.hero {
   background-color: blue;
+  display: inline;
   width: 100%;
+  margin-left: auto;
   height: 80px;
   color: white;
-  padding: 10px;
+  padding: 0px;
 }
-div.hero > h1 {
+
+span.hero > h1 {
   text-align: bottom;
 }
-div.navbar {
+span.navbar {
   float: right;
   background-color: #4b88eb;
   width: 100%;
@@ -35,7 +39,7 @@ a {
   background-color: #2561c4;
   color: #76a6f5;
 }
-a.navbar_img {
+img.navbar_img {
   margin: 15px;
 }
 @font-face {
