@@ -28,8 +28,7 @@ a {
   background-color: #4b88eb;
   color: white;
   font-size: 30px;
-  padding: 15px;
-  padding-top: 30px;
+  padding: 25px 15px 15px 15px;
   float: right;
 }
 .button:hover {
