@@ -28,7 +28,9 @@ a {
   background-color: #4b88eb;
   color: white;
   font-size: 30px;
-  padding: 15px;
+  padding-top: 25px;
+  padding: 15px
+  float: right;
 }
 .button:hover {
   background-color: #76a6f5;
@@ -39,7 +41,7 @@ a {
   color: #76a6f5;
 }
 img.navbar_img {
-  padding: 15px;
+  margin: 15px;
 }
 @font-face {
 font-family: ('MyriadPro-Regular'),
