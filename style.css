@@ -5,14 +5,9 @@ body {
 }
 span.hero {
   background-color: blue;
-  display: inline;
   width: 100%;
   height: 80px;
   color: white;
-}
-
-span.hero > h1 {
-  text-align: bottom;
 }
 span.navbar {
   float: right;
@@ -27,8 +22,6 @@ a {
   color: white;
   font-size: 30px;
   padding: 15px;
-  float: right;
-  align: right;
 }
 .button:hover {
   background-color: #76a6f5;
