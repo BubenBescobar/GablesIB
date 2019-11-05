@@ -29,6 +29,7 @@ a {
   color: white;
   font-size: 30px;
   padding: 15px;
+  padding-top: 25px;
   float: right;
 }
 .button:hover {
