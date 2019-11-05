@@ -28,6 +28,7 @@ a {
   font-size: 30px;
   padding: 15px;
   float: right;
+  align: right;
 }
 .button:hover {
   background-color: #76a6f5;
