@@ -23,13 +23,14 @@ span.navbar {
 }
 a {
   text-decoration: none;
+  tagret: _blank;
 }
 .button {
   background-color: #4b88eb;
   color: white;
   font-size: 30px;
+  padding: 15px;
   padding-top: 25px;
-  padding: 15px
   float: right;
 }
 .button:hover {
