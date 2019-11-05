@@ -7,10 +7,8 @@ span.hero {
   background-color: blue;
   display: inline;
   width: 100%;
-  margin-left: auto;
   height: 80px;
   color: white;
-  padding: 0px;
 }
 
 span.hero > h1 {
@@ -29,7 +27,7 @@ a {
   color: white;
   font-size: 30px;
   padding-top: 25px;
-  padding: 15px
+  padding: 15px;
   float: right;
 }
 .button:hover {
