@@ -60,6 +60,7 @@ img.first_post_img {
 h2.first_post_header {
   color: #f7ffff;
   font-size: 30px;
+  text-shadow: 2px 2px black;
 }
 p.first_post_text {
   color: black;
