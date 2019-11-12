@@ -115,3 +115,24 @@ h3.about_headin {
   color: #4b88eb;
   text-shadow: 2px 2px blue;
 }
+div.second_post {
+  margin: 0px 50px 50px 50px;
+  height: 220px;
+  background-color: #AAD7EF;
+  padding: 10px;
+  animation: first_post 3s forwards;
+}
+img.second_post_img {
+  margin: 14px;
+  float: right;
+}
+h2.second_post_header {
+  color: #f7ffff;
+  font-size: 30px;
+  text-shadow: 2px 2px black;
+}
+p.second_post_text {
+  color: black;
+  font-size: 20px;
+  top-margin: 0px;
+}
