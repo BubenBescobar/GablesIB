@@ -136,3 +136,10 @@ p.second_post_text {
   font-size: 20px;
   top-margin: 0px;
 }
+p.about_text {
+  padding: 5px;
+  transition: background-color 1s;
+}
+p.about_text:hover {
+  background-color: #AAD7EF;
+}
