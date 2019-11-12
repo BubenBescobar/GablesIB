@@ -86,6 +86,7 @@ div.footer {
   height: 32px;
   padding-top: 2px;
   padding-bottom: 12px;
+  margin-bottom: 0px;
 }
 p.footer_text > a {
   color: white;
