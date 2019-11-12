@@ -91,3 +91,11 @@ div.footer {
 p.footer_text > a {
   color: white;
 }
+div.student_info {
+  margin: 30px;
+  margin-top: 80px;
+}
+
+fieldset {
+  background-color: #AAD7EF;
+}
