@@ -47,11 +47,22 @@ font-family: ('MyriadPro-Regular'),
 src: url('fonts/MyriadPro-Regular.ttf ') format("truetype");
 }
 
+@keyframes first_post {
+  from {
+    width: 100%;
+    margin: 100px 0px;
+  }
+  to {
+    margin: 100px 50px 50px 50px;
+  }
+}
+
 div.first_post {
   margin: 100px 50px 50px 50px;
   height: 220px;
   background-color: #AAD7EF;
   padding: 10px;
+  animation: first_post 3s forwards;
 }
 img.first_post_img {
   margin: 14px;
@@ -66,4 +77,16 @@ p.first_post_text {
   color: black;
   font-size: 20px;
   top-margin: 0px;
+}
+div.footer {
+  width: 100%;
+  background-color: #4b88eb;
+  text-align: center;
+  color: white;
+  height: 32px;
+  padding-top: 2px;
+  padding-bottom: 12px;
+}
+p.footer_text > a {
+  color: white;
 }
