@@ -99,3 +99,19 @@ div.student_info {
 fieldset {
   background-color: #AAD7EF;
 }
+div.about {
+  margin: 50px;
+  margin-top: 80px;
+}
+h2.headin {
+  color: white;
+  background-color: #AAD7EF;
+  padding: 4px;
+  text-shadow: 2px 2px black;
+  border-style: solid;
+  border-color: #4b88eb;
+}
+h3.about_headin {
+  color: #4b88eb;
+  text-shadow: 2px 2px blue;
+}
